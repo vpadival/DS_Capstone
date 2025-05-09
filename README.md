@@ -4,7 +4,7 @@ This project is part of the **IBM Data Science Capstone** on Coursera. The objec
 
 ## 📌 Project Overview
 
-SpaceX’s ability to reuse rocket stages drastically reduces launch costs. By analyzing launch data, we aim to predict the landing outcome and understand what factors contribute to a successful recovery.
+SpaceX’s ability to reuse rocket stages drastically reduces launch costs. By analysing launch data, we aim to predict the landing outcome and understand what factors contribute to a successful recovery.
 
 ## 🔍 Objectives
 
@@ -32,15 +32,15 @@ SpaceX’s ability to reuse rocket stages drastically reduces launch costs. By a
 - Created binary labels for landing success.
 
 ### 📈 Exploratory Data Analysis (EDA)
-- Visualized trends in launch site performance, orbit types, payload influence, and time-based patterns.
+- Visualised trends in launch site performance, orbit types, payload influence, and time-based patterns.
 - Used SQL to query payload stats, success/failure rates, and launch outcomes.
 
 ### 🌍 Geospatial Analysis
 - Mapped all launch sites using **Folium**.
-- Analyzed launch site proximity to railways, highways, and coastlines.
+- Analysed launch site proximity to railways, highways, and coastlines.
 
 ### 📊 Dashboard
-- Created an interactive dashboard with **Plotly Dash** to visualize launch success by site, payload mass, and booster version.
+- Created an interactive dashboard with **Plotly Dash** to visualise launch success by site, payload mass, and booster version.
 
 ### 🤖 Predictive Modeling
 - Built several classifiers (Logistic Regression, Decision Tree, Random Forest, etc.).
@@ -66,7 +66,7 @@ SpaceX’s ability to reuse rocket stages drastically reduces launch costs. By a
 
 ## 🏁 Conclusion
 
-This project demonstrates the power of data-driven decision-making in aerospace. The predictive model and dashboard can serve as valuable tools for competitors looking to analyze or challenge SpaceX’s launch capabilities.
+This project demonstrates the power of data-driven decision-making in aerospace. The predictive model and dashboard can serve as valuable tools for competitors looking to analyse or challenge SpaceX’s launch capabilities.
 
 ---
 
@@ -74,4 +74,4 @@ This project demonstrates the power of data-driven decision-making in aerospace.
 
 **Vachan Padival**  
 📍 AIML @ BNMIT  
-🔗 [LinkedIn](https://www.linkedin.com/) (Insert your profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vachan-padival-245346323/)  
